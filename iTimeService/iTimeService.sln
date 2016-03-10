@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iTimeService", "iTimeService.csproj", "{73BD44EC-D805-4FE4-BDA6-0F8160076DE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iTime", "iTime\iTime\iTime.csproj", "{EB4DC1CA-7D88-44E3-B0EC-28CC0B4A895C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73BD44EC-D805-4FE4-BDA6-0F8160076DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BD44EC-D805-4FE4-BDA6-0F8160076DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BD44EC-D805-4FE4-BDA6-0F8160076DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BD44EC-D805-4FE4-BDA6-0F8160076DE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB4DC1CA-7D88-44E3-B0EC-28CC0B4A895C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4DC1CA-7D88-44E3-B0EC-28CC0B4A895C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4DC1CA-7D88-44E3-B0EC-28CC0B4A895C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4DC1CA-7D88-44E3-B0EC-28CC0B4A895C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
